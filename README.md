@@ -10,8 +10,8 @@ Python3 기반 알고리즘 학습 자료
 - [Week 3: Queue, 정렬](./week-03/README.md)
 
 ### Phase 2: 재귀와 트리 (4-6주)
-- Week 4: 재귀, Binary Tree 기초
-- Week 5: Tree 심화, BST
+- [Week 4: 재귀, Binary Tree 기초](./week-04/README.md)
+- [Week 5: Tree 심화, BST](./week-05/README.md)
 - Week 6: N-ary Tree, 이진 탐색
 
 ### Phase 3: 고급 자료구조 (7-8주)
